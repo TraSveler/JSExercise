@@ -1,0 +1,13 @@
+img { 
+	border: 1px solid green;
+	padding: 5px;
+	width: 200px;
+	height: 170px;
+	margin-right: 5px;
+}
+h1 {
+	text-align: center;
+}
+div {
+	margin-left: 25%;
+}

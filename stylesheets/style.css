@@ -5,9 +5,16 @@ img {
 	height: 170px;
 	margin-right: 5px;
 }
-h1 {
+h1, p {
 	text-align: center;
 }
-div {
+ul {
 	margin-left: 25%;
+	margin-right: 25%;
+}
+li{
+	list-style: none;
+    float: left;
+    margin: 5px;
+    position: relative;
 }

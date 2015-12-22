@@ -1,20 +1,21 @@
 img { 
-	border: 1px solid green;
-	padding: 5px;
+	border: 1px solid violet;
+	padding: 3px;
 	width: 200px;
 	height: 170px;
 	margin-right: 5px;
 }
-h1, p {
+h1 {
 	text-align: center;
+	margin-top: -10px;
 }
 ul {
-	margin-left: 25%;
-	margin-right: 25%;
+	margin-left: 22%;
+	margin-right: 20%;
 }
 li{
 	list-style: none;
     float: left;
-    margin: 5px;
+    margin: 4px;
     position: relative;
 }
